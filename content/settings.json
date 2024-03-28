@@ -1,7 +1,7 @@
 {
   "domain": "euamonono.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#00c47b",
+  "primary_color": "#00dbaf",
   "theme": {
     "bootswatch": "flatly",
     "custom": "ecom-beauty"
@@ -18,7 +18,7 @@
   "favicon": "/img/uploads/favicon.png",
   "icons_font": "line-awesome",
   "country_code": "BR",
-  "secondary_color": "#00dbaf",
+  "secondary_color": "#00c47b",
   "icon": "/img/icon.png",
   "store_id": 51508,
   "description": "euamonono",
