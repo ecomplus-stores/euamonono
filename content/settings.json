@@ -4,19 +4,19 @@
   "primary_color": "#00c47b",
   "theme": {
     "bootswatch": "flatly",
-    "custom": "ecom-beauty"
+    "custom": "niche-baby"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/euamonono",
   "logo": "/img/uploads/logo-.png",
   "name": "euamonono",
-  "short_name": "euamonono",
+  "short_name": "Eu amo Nonô",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
   "font_family": "_",
   "favicon": "/img/uploads/favicon.png",
-  "icons_font": "_",
+  "icons_font": "line-awesome",
   "country_code": "BR",
   "secondary_color": "#00dbaf",
   "icon": "/img/icon.png",
