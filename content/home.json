@@ -1,11 +1,11 @@
 {
-  "meta_title": "",
-  "meta_description": "",
+  "meta_title": "Moda Infantil Encantadora | Eu Amo Nonô: Roupas Adoráveis para Crianças",
+  "meta_description": "Descubra o encanto da moda infantil no Eu amo Nonô. Explore nossa coleção de roupas cuidadosamente selecionadas para crianças cheias de estilo e personalidade. Encontre peças únicas e tendências irresistíveis para os pequenos que você ama. Faça da moda uma aventura feliz com Eu amo Nonô!",
   "sections": [
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "full_width": false,
+      "full_width": true,
       "slides": [
         {
           "img": "/img/uploads/rect89.webp",
