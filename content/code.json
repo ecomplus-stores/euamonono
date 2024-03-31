@@ -1,5 +1,5 @@
 {
-  "css": "@media (min-width: 992px) {\n  .banner-slider {\n    max-width: 100%;\n    \n  }\n}",
+  "css": "",
   "html_head": "",
   "html_body": ""
 }
