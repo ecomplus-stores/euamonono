@@ -1,10 +1,13 @@
 {
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/macacoes?Macacões",
+      "/acessorios?Acessórios"
+    ],
     "random": 6,
     "full_width": true
   },
-  "menu_all_departments": false,
+  "menu_all_departments": true,
   "centralized_logo": false,
   "marketing_stripe": {
     "text": "Aproveite nossos descontos de até 50%!",
@@ -13,10 +16,10 @@
     "color": "#ffffff"
   },
   "alphabetical_order_submenu": false,
-  "name_all_departments": "",
+  "name_all_departments": "Todos os departamentos",
   "search_input": true,
-  "desktop_megamenu": false,
-  "full_width_submenu": false,
+  "desktop_megamenu": true,
+  "full_width_submenu": true,
   "contacts_stripe": {
     "pages": [
       {
