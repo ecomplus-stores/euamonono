@@ -1,5 +1,5 @@
 {
-  "css": "main .footer {\n    background-color: #1e351e;\n    border-color:#f1b73d;\n}  \nmain .ecom-credits {\n    background-color:#1e351e;\n}\n\n#custom_html_body .agenciaRepositoriocg {\n    background-color: #1e351e;\n    justify-content: center;\n\tmargin: 0 auto;\n    padding: 5px;\n\tdisplay: flex;\n\tvertical-align: middle;\n}\n\n#custom_html_body .agencialabel{\n    font-size: 12px;\n    font-weight:100;\n\tmargin-right: 5px;\n\tcolor:#fff;\n\tline-height: 22px;\n    margin-bottom:0;\n}\n\n#custom_html_body .agenciaRepositoriocg img{\n    width:140px;\n}\n",
+  "css": "main .footer {\n    background-color: #1e351e;\n    border-color:#f1b73d;\n}  \nmain .ecom-credits {\n    background-color:#1e351e;\n}\n\n#custom_html_body .agenciaRepositoriocg {\n    background-color: #1e351e;\n    justify-content: center;\n\tmargin: 0 auto;\n    padding: 5px;\n\tdisplay: flex;\n\tvertical-align: middle;\n}\n\n#custom_html_body .agencialabel{\n    font-size: 12px;\n    font-weight:100;\n\tmargin-right: 5px;\n\tcolor:#fff;\n\tline-height: 22px;\n    margin-bottom:0;\n}\n\n#custom_html_body .agenciaRepositoriocg img{\n    width:140px;\n}\n\n.header__nav .header__submenu a{\n    color: #3cb06e;\n}\n",
   "html_head": "",
-  "html_body": ""
+  "html_body": "<div class=\"agenciaRepositoriocg\">\n  <label class=\"agencialabel\">Agência:</label>\n  <a href=\"https://repositoriocg.com.br\"><img src=\"https://ecoms1.com/51508/@v3/1713298125732-logorepositoriowhite.svg\"> </a>\n</div>"
 }
