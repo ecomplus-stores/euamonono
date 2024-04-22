@@ -4,7 +4,7 @@
   "primary_color": "#00dbaf",
   "theme": {
     "bootswatch": "flatly",
-    "custom": "ecom-beauty"
+    "custom": "_"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/euamonono",
