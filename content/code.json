@@ -1,5 +1,5 @@
 {
-  "css": "main .footer {\n    background-color: #1e351e;\n    border-color:#f1b73d;\n}  \nmain .ecom-credits {\n    background-color:#1e351e;\n}\n\n.header__nav .header__submenu a{\n    color: #3cb06e;\n}\n\n.header__nav .header__category:hover{\n    color: #3cb06e;\n}\n\n.header__nav .header__category a:hover{\n    color: #3cb06e;\n}\n",
+  "css": "main .footer {\n    background-color: #1e351e;\n    border-color:#f1b73d;\n}  \nmain .ecom-credits {\n    background-color:#1e351e;\n}\n.header__nav .header__submenu a{\n    color: #3cb06e;\n}\n.header__nav .header__category:hover{\n    color: #3cb06e;\n}\n.header__nav .header__category a:hover{\n    color: #3cb06e;\n}",
   "html_head": "",
   "html_body": ""
 }
