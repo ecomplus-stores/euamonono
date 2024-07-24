@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.6f320db314b80bed881c8986e4d6e9d1.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.f9e3ac0c259648e31f6eff53329efe5f.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.6afce463e76120cb37a141a3fd52bc12.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.f1f28f131e20b57abdfac075e977f56e.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.5a2b7c50e2757621f17a6874eaf1f67b.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "euamonono",
+  "short_name": "Eu amo Nonô",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "euamonono",
+  "background_color": "#ffffff",
+  "theme_color": "#00dbaf"
+}
